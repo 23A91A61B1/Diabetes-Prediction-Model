@@ -38,6 +38,10 @@ A demonstration video of the Diabetes Prediction Model is included in this repos
 
 ## Model Evaluation
 
+## Live Demo
+
+👉 [Try the Diabetes Prediction Model](https://diabetes-prediction-model-ps3scbyue2dkyiufz4p9by.streamlit.app/)
+
 The model calculates accuracy on both training and test data to evaluate its performance.
 
 ## Author
